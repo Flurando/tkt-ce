@@ -1,0 +1,11 @@
+* README
+** Multilanguage
+only README, CONTRIBUTING, HACKING may have non-english version offered.
+
+any other codes, comments, filenames, etc. only contain ASCII characters.
+
+see [[file:README.zh_CN.org][Simplified Chinese README]] for example.
+
+README, CONTRIBUTING, HACKING would never be AI/machine translated.
+
+as current contributors of this project are all simplified chinese speakers, Simplified Chinese versions of README, CONTRIBUTING, HACKING are written in higher priority than English ones for contributors to understand easily.
